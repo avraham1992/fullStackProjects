@@ -1,0 +1,10 @@
+.post > div{
+  border : solid black 1px;
+  margin-left : 1em;
+  margin-right : 1em;
+  margin-top : 1em;
+  margin-bouttm : 1em;
+} 
+img{
+width:90px
+}
