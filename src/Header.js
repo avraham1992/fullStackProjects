@@ -3,7 +3,7 @@ import './App.css'
 import Section from "./MainSection";
 
 import Sidebar from "./Sidebar";
-import {Post, posts} from './posts';
+import {Post} from './posts';
 import {
     BrowserRouter as Router,
     Switch,

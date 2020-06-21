@@ -1,7 +1,6 @@
 import React from 'react';
 import {Link, useParams} from "react-router-dom";
-import {posts} from './posts';
-
+var posts = ""
 var SinglePost = () => {
     var {id} = useParams();
     return (
